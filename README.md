@@ -28,7 +28,7 @@ Finally, this project also includes texture mapping across all of the primitive 
 
 ![Image](http://i.imgur.com/CAsZRof.jpg)
 
-Due to some compression artifacts a little bit of the clarity is lost in this screenshot. However, you can clearly see the recursive aspect of the ray tracer in the reflections within the spheres.
+Due to some compression artifacts a little bit of the clarity is lost in this screenshot. However, you can clearly see the recursive aspect of the ray tracer in the reflections within the spheres. In addition, this screenshot shows the texture mapping capabilities as a low quality image of the earth is mapped over a cube.
 
 
 ### Note
