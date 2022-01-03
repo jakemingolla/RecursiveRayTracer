@@ -50,3 +50,5 @@ In addition, the code has relatively sparse comments since a working submission 
 - **Mike Shah** for providing support code necessary for loading .ppm images.
 
 - **Remco Chang** for introducing this project as a part of Comp 175 - Computer Graphics at Tufts Spring 2015. In addition, Remco provided support code listed in Algebra.h as well as all of the modules necessary for parsing the scene files.
+
+- **Casey Gowrie** for co-authoring this project.
